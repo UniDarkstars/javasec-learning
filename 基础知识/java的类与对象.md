@@ -160,8 +160,6 @@ class B {
 }
 ```
 
-![image-20240430212139060](C:\Users\Apprentice\AppData\Roaming\Typora\typora-user-images\image-20240430212139060.png)
-
 
 
 ### 多态
